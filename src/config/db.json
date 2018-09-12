@@ -1,0 +1,7 @@
+{
+"driverName" : "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+"url" : "jdbc:sqlserver://192.168.55.128:1433;databaseName=bankdhofar",
+"CabinetName":"bankdhofar",
+"UserName":"loginap",
+"Password":"loginap1234#"
+}
